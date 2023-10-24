@@ -19,3 +19,5 @@ change the main branch name // mudar o nome da branch principal => git branch -M
 add repository // adicionar repositório => git remote add origin "LinkRepositorio"
 
 push commits local to the github // empurrar commits local para o github =>git push -u origin main
+
+out of the actually branch and create a new branch // sair da branch atual e criar outra => git checkout -b "newbranchname"
