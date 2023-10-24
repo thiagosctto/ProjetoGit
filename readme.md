@@ -22,4 +22,4 @@ push commits local to the github // empurrar commits local para o github =>git p
 
 clone a repository // clonar um repositorio => git clone "link"
 
-if happen a update // se tiver um update => git pull
+if happen an update // se tiver um update => git pull
