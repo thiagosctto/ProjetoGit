@@ -19,3 +19,7 @@ change the main branch name // mudar o nome da branch principal => git branch -M
 add repository // adicionar repositório => git remote add origin "LinkRepositorio"
 
 push commits local to the github // empurrar commits local para o github =>git push -u origin main 
+
+clone a repository // clonar um repositorio => git clone "link"
+
+if happen a update // se tiver um update => git pull
